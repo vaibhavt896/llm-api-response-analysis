@@ -1,8 +1,8 @@
 # LLM API Performance Analysis: Cost & Latency Optimization
 
 **Author:** Vaibhav Tiwari  
-**Contact:** [tiwarvaibhav997@gmail.com](mailto:tiwarvaibhav997@gmail.com) | [LinkedIn](https://linkedin.com/in/vaibhavtiwari-writer)  
-**Live Project:** [View on GitHub](https://github.com/vaibhavtwrites/llm-api-analysis)
+**Contact:** [tiwarvaibhav997@gmail.com](mailto:tiwarvaibhav997@gmail.com) | [LinkedIn](https://linkedin.com/in/vaibhavtechdev)  
+**Live Project:** [View on GitHub](https://github.com/vaibhavt896/llm-api-response-analysis)
 
 ---
 
@@ -177,7 +177,7 @@ cost_per_token = df['cost_usd'] / df['total_tokens']
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/vaibhavtwrites/llm-api-analysis.git
+git clone https://github.com/vaibhavt896/llm-api-response-analysis.git
 cd llm-api-analysis
 
 # Create virtual environment
@@ -287,9 +287,9 @@ All analysis techniques, code structure, and documentation approaches are produc
 
 **Vaibhav Tiwari**  
 📧 Email: tiwarvaibhav997@gmail.com  
-💼 LinkedIn: [linkedin.com/in/vaibhavtiwari-writer](https://linkedin.com/in/vaibhavtiwari-writer)  
-🔗 GitHub: [@vaibhavtwrites](https://github.com/vaibhavtwrites)  
-📁 Portfolio: [View More Projects](https://github.com/vaibhavtwrites)
+💼 LinkedIn: [linkedin.com/in/vaibhavtechdev](https://linkedin.com/in/vaibhavtechdev)  
+🔗 GitHub: [@vaibhavt896](https://github.com/vaibhavt896)  
+📁 Portfolio: [View More Projects](https://github.com/vaibhavt896)
 
 ---
 
